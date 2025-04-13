@@ -109,9 +109,9 @@ If `--viz` is enabled or `plot` is typed at runtime, real-time plots will show:
 
 ---
 
-## 🔧 Customizing Flutter WebSocket Endpoint
+## 🔧 Customizing Mobile App WebSocket Endpoint
 
-In the SockeSense app, simply input the WebSocket address from the **Settings tab** (e.g., `192.168.4.1:8765`) to connect to this server.
+In the SocketSense app, simply input the WebSocket address from the **Settings tab** (e.g., `192.168.4.1:8765`) to connect to this server.
 
 ---
 ## Other Examples
